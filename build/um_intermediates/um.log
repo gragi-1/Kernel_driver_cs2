@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Usuario\source\repos\first_kernel_driver\um\src\main.cpp(93,18): warning C4312: 'reinterpret_cast': conversión de 'const DWORD' a 'HANDLE' de mayor tamaño
+  um.vcxproj -> C:\Users\Usuario\source\repos\first_kernel_driver\build\um.exe

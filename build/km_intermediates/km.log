@@ -1,0 +1,23 @@
+﻿  Building 'km' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping C:\Users\Usuario\source\repos\first_kernel_driver\build\km_intermediates\km.inf
+  Stamping [Version] section with DriverVer=02/28/2024,17.49.21.316
+  main.cpp
+  km.vcxproj -> C:\Users\Usuario\source\repos\first_kernel_driver\build\km.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Usuario\source\repos\first_kernel_driver\build\km.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Usuario\source\repos\first_kernel_driver\build\km\km.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Usuario\source\repos\first_kernel_driver\build\km\km.cat
+  
